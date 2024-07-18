@@ -1,0 +1,1 @@
+fruits = ["cherry", "date", "elderberry", "fig", "grape", "honeydew", "kiwi", "lemon", "nectarine", "pineapple", "raspberry", "strawberry", "tangerine", "lime", "blackberry", "blueberry", "avocado", "guava", "kiwi", "papaya", "passion fruit", "peach", "pear", "coconut", "plum", "cashew", "agbalumo"]
